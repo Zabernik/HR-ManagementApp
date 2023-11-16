@@ -6,9 +6,9 @@
  
  ## Technology
  Application for illustration purposes will be working on **SQLight** Database with **EF** and **LINQ**.\
- At any moment you could change destination application to any provider with **SQL Database**.\
+ At any moment you could change destination application to any provider with **SQL Database**.
  
- Application stand on WPF but in future i will create special Web App for clock in/out to/from work by users in the workplace.\
+ Application stand on WPF but in future i will create special Web App for clock in/out to/from work by users in the workplace.
  
  ## Plan of develop
  - [ ] Create Login System
