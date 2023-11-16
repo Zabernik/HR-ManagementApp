@@ -31,7 +31,6 @@
    - [ ] Checking how many night hours employee worked
    - [ ] Calculate how many hours left to work
    - [ ] Calculate his salary from his hours
-   - [ ] 
- - [ ] 
+         
  ## Licence
  This project is licensed under the MIT License - see the LICENSE.md file for details
