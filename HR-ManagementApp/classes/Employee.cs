@@ -14,6 +14,7 @@ namespace HR_ManagementApp.classes
         public override string LastName { get; }
         public override decimal Salary { get; }
         public override AccessLevel AccessLevel { get; }
+        public override string Position { get; }
         public override string Login
         {
             get
