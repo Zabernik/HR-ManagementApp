@@ -16,14 +16,22 @@
    - [ ] Forget password
          
  - [ ] Create Front of Application
-   - [ ] Login
+   - [ ] Panel for Login
    - [ ] Panel for Leaders
    - [ ] Panel for Users
-   - [ ] Panel with statistics
+   - [ ] Panel for statistics
+   - [ ] Panel for modify accounts
          
  - [ ] Create DB
+   - [ ] All tables
+   - [ ] Relation
+   - [ ] Method to update records
+   - [ ] Method to delete records
        
  - [ ] Create Role of Users/Leaders
+   - [ ] U1 - U3
+   - [ ] L1 - L3
+   - [ ] Root
        
  - [ ] Create System to Control of Working Hours
    - [ ] Checking how many hours employee have to work
@@ -32,5 +40,10 @@
    - [ ] Calculate how many hours left to work
    - [ ] Calculate his salary from his hours
          
+ - [ ] Ability to Manage Accounts
+   - [ ] Create new account
+   - [ ] Modify accounts
+   - [ ] Delete accounts
+
  ## Licence
  This project is licensed under the MIT License - see the LICENSE.md file for details
